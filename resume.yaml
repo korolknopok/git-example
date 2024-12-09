@@ -1,14 +1,14 @@
-name: Ваше Имя
+name: Артём
 contact:
-  email: ваш.email@example.com
+  email: fedor.artem.ivanov@mail.ru
   phone: ваш_телефон
 skills:
-  - name: Навык 1
+  - name: React
     level: medium
-  - name: Навык 2
-    level: advanced
+  - name: TypeScript
+    level: medium
 education:
-  - institution: Учебное заведение
-    degree: Степень
-    start_date: 20XX-XX-XX
-    end_date: 20XX-XX-XX
+  - institution: ТУСУР
+    degree: 4
+    start_date: 2021-01-09
+    end_date: 2025-08-31
