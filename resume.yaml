@@ -1,0 +1,14 @@
+name: Ваше Имя
+contact:
+  email: ваш.email@example.com
+  phone: ваш_телефон
+skills:
+  - name: Навык 1
+    level: medium
+  - name: Навык 2
+    level: advanced
+education:
+  - institution: Учебное заведение
+    degree: Степень
+    start_date: 20XX-XX-XX
+    end_date: 20XX-XX-XX
